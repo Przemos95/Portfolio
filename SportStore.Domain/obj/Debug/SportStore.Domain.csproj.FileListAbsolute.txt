@@ -1,0 +1,30 @@
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+c:\users\przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Przemek\documents\visual studio 2013\Projects\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+E:\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+E:\SportsStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+E:\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+E:\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+E:\SportsStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
+E:\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+E:\SportsStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb

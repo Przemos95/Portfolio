@@ -1,0 +1,35 @@
+﻿@model IEnumerable<SportStore.Domain.Entities.Product>
+@{
+    ViewBag.Title = "Administracja: Wszystkie produkty";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<dev>
+    <table class="table table-striped table-condensed table-bordered">
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Nazwa</td>
+                <td>Cena</td>
+                <td>Akcje</td>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tbody>
+                <tr class="form-group">
+                    <td>@item.ProductID</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>
+                        @Html.ActionLink("Edytuj", "Edit", "Admin", new { id = item.ProductID }, null)
+                        @Html.ActionLink("Usuń", "Delete", "Admin", new { name = item.Name, id = item.ProductID }, new { @class = "btn btn-default" })
+                    </td>
+                </tr>
+            </tbody>
+        }
+    </table>
+    @Html.ActionLink("Dodaj produkt", "Create", null, new { @class = "btn btn-default"})
+    @Html.ActionLink("Powrót do strony głównej", "List", "Product", null, new { @class = "btn btn-default" })
+</dev>
+
